@@ -1,0 +1,37 @@
+table{
+    width: 70%; /*lo largo de l tabla */
+    
+    margin-bottom: 30px; /* la separacion entre tablas */
+    
+    
+ }
+thead th{
+   background-color: rgb(120, 170, 133);
+    color: rgb(13, 14, 13);
+     border: 1px solid #000;
+     text-align: center;
+   
+}
+    tbody td{
+
+    background-color: rgb(140, 182, 72);
+    color: rgb(13, 14, 13);
+     border: 1px solid #000;
+    
+   
+ }
+    
+ 
+h1{
+    text-align: center;
+    color: rgb(204, 13, 13);
+    
+    
+    
+}
+img{
+   width: 45px;
+ }
+ body{
+background-color: rgb(207, 146, 146);
+ }
